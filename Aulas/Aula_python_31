@@ -1,0 +1,22 @@
+Estudo de python aula  31 criacao de modulos personalizados
+
+pelo anaconda navigator, usaremos a ide spyder, 
+iremos criar um novo arquivo com a ext ".py"
+
+iremos colocar nossas funcoes no arquivo, apos isso iremos usar ele no nosso codigo
+
+para isso precisaremos importar nosso arquivo para dentro do codigo com o import
+
+ ex: utils.py
+
+  import utils as ut
+
+
+assim poderemos usar as funcoes do arquivo utils.py acessando elas pelo ut.nome_da_func, exemplo se tivesse
+uma funcao com o nome de teste, poderiamos usar ela dessa forma 
+
+   import utils as ut
+
+   ut.teste()
+
+	
