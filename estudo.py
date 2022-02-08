@@ -2,7 +2,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-http = requests.get("https://www.imagefap.com/pictures/10090613/Hello")
+http = requests.get("Any_Url -_-")
 
 doc = BeautifulSoup(http.text, "html.parser")
 
