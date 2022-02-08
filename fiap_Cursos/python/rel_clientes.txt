@@ -1,0 +1,14 @@
+
+ Nome.......: thalis
+ endereco...: Rua Itabera, Três Carneiros Alto, Cohab, Recife, Região Geográfica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, 51330-590, Brasil
+ Nome.......: thalis
+ endereco...: Rua Ibiraci, Três Carneiros Baixo, Cohab, Recife, Região Geográfica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, 51330-150, Brasil
+ coordenades: -34.9562497,-8.1255454
+ contatos...: 81 99501 1875, email: thalis_fernandes25@outlook.com
+ Aparelho...: emac 74-8
+ 
+ Nome.......: Carlos silva
+ endereco...: Rua Itabera, Três Carneiros Alto, Cohab, Recife, Região Geográfica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, 51330-590, Brasil
+ coordenades: -34.955262,-8.1228762
+ contatos...: 81 34774226, email: carlos_silva@gmail.com
+ Aparelho...: Vim 5578-9

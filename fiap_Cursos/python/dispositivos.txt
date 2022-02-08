@@ -1,0 +1,9 @@
+
+ nome do dispositivo: molden 900123id: 50011, ip:102.0.0.1, porta:800
+ nome do dispositivo: pci 3000
+ 
+ id: 00934400, ip: 192.168.0.1, porta: 8030
+ nome do dispositivo: logtec zoom 4000
+
+ nome do dispositivo: logtex 400093 ...:id: 9903456 ip: 192.168.0.103, porta: 9001
+ nome do dispositivo: textFront 3000 ...:id: 8990333 ip: 192.168.0.1, porta: 9002
