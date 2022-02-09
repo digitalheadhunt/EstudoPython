@@ -2,7 +2,9 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-http = requests.get("Any_Url -_-")
+url = input("Digite a url: ")
+
+http = requests.get(url)
 
 doc = BeautifulSoup(http.text, "html.parser")
 
