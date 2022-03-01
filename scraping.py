@@ -3,7 +3,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 # specify the url
-url = "www.xvideos.com"
+url = "www.eos.com"
 
 # Connect to the website and return the html to the variable ‘page’
 try:
