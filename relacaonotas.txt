@@ -1,0 +1,5 @@
+Aluno:testeNota:8Aluno:joaoNota:5Aluno:thalis Nota:6
+
+ Aluno:thalis Nota:6
+
+ Aluno:carlos Nota:6
