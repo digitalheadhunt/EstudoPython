@@ -1,0 +1,12 @@
+nome: thalissexo:masculino
+ nome: thalis
+ sexo:masculino
+ cep:51330020
+ idade:26
+ cel:81995011875#######################
+ nome: Carlos fernandes
+ sexo:masculino
+ cep:51330020
+ idade:26
+ cel:81995011875
+ #######################

@@ -1,0 +1,56 @@
+Aula 44 Orientacao a Objetos
+
+classe e objeto
+
+Classe - e um agrupamento de objetos similares que apresentam os mesmos atributos e metodos
+
+ exemplo de classe um molde de boneco de gesso
+        - define o tamanho
+        - o molde e sempre o mesmo porem os objetos gerados pode ter caracteristicas variadas, respeitando a estrutura basica
+          do molde;
+
+ as caracteristicas sao chamadas de atributos em programacao, entao por exemplo a cor e uma caracteristica logo ela e um atributo:
+    
+    atributos:
+        cor
+        tamanho
+        n de patas
+        raca
+
+
+metodos sao iguais as acoes que  o objeto pode fazer exemplo:
+
+    acoes(metodos):
+        latir
+        correr
+        morder
+        brincar
+
+
+
+entao os atributos(caracteristicas) sao os tipos de dados que esse objeto pode ter
+   atributos
+    string
+    listas
+    tuplas
+
+e os metodos(acoes) sao como as funcoes que esse objeto vai conter:
+
+    metodos
+     funcoes
+
+
+em exemplo real de classe e objetos seria:
+
+  molde de boneco de gesso ===> classe
+  boneco de gesso          ===> objeto
+
+
+Aula 45 ORIENTACAO A OBJETO PRATICA
+
+    uma estrutura padrao de class em python e definida da seguinte maneira
+
+ class nomeDaClass:
+       def _init_(self,atributos da class):
+               self.atributo = algum valor
+            
