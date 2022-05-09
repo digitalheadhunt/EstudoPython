@@ -5,11 +5,9 @@ from bs4 import BeautifulSoup
 # specify the url
 url = "www.eos.com"
 
-# Connect to the website and return the html to the variable ‘page’
-try:
-    page = urlopen(url)
-except:
-    print("Error opening the URL")
+page = urlopen(url)
+
+print("Error opening the URL")
 
 # parse the html using beautiful soup and store in variable `soup`
 soup = BeautifulSoup(page, 'html.parser')
